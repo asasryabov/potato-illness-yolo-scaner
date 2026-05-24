@@ -1,0 +1,9 @@
+train: train/
+valid: valid/
+test: test/
+
+# number of classes
+nc: 7
+
+# class names
+names: ["Bacteria","Fungi","Healthy","Nematode","Pest","Phytopthora","Virus"]
